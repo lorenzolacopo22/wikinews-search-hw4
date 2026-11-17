@@ -26,7 +26,7 @@ Sistema di Information Retrieval full-text con interfaccia Web realizzato per il
 
 ```bash
 
-git clone <URL\_DEL\_VOSTRO\_REPOSITORY>
+git clone https://github.com/lorenzolacopo22/wikinews-search-hw4
 
 cd wikinews-search
 
